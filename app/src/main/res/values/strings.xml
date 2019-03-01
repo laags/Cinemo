@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment 4</string>
+    <string name="titleHint">Title</string>
+    <string name="descriptionHint">Description</string>
+    <string name="selectImageTxt">Select Image</string>
+    <string name="selectVideoTxt">Select Video</string>
+    <string name="addMovieTxt">Add Movie</string>
+    <string name="addNewTxt">Add New</string>
+    <string name="moveTitleTxt">Movie Title</string>
+    <string name="descTxt">Description</string>
+    <string name="saveRatingTxt">Save Rating</string>
+    <string name="deleteMovieTxt">Delete Movie</string>
+</resources>
